@@ -1,4 +1,4 @@
-# hcup_python
+# HCUP + Python
 
 
 This is a tutorial on working with Healthcare Cost and Utilization Project (HCUP) datasets using Python and other open-source alternatives to SAS and SPSS, which are the two primary data tools supported by HCUP.
