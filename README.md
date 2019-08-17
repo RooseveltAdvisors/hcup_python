@@ -13,7 +13,7 @@ To aid in parsing the datasets, HCUP provides loading program definitions in SAS
 In my case, I am using the Python programing language (especially the excellent pandas library) to parse HCUP data sets and do preliminary cleanup, then a PostgreSQL database for integration and long-term storage. Much of the Python code I am using is rolled into a package called PyHCUP, which is available on PyPI or simply through pip (pip install PyHCUP).
 
 
-Reference
+## References:
 - http://bielism.blogspot.com/2013/12/hcup-and-python-pt-i-background.html
 - http://bielism.blogspot.com/2013/12/hcup-and-python-pt-4-reading-in-data.html
 - http://bielism.blogspot.com/2013/12/hcup-and-python-pt-5-nulls-and-pre.html
